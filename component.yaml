@@ -1,0 +1,6 @@
+name: club-finder
+# generator: static
+# path: "./manifests"
+subcomponents:
+- name: club-finder
+  source: "./club-finder"

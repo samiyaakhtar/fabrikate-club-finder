@@ -1,0 +1,3 @@
+name: "ui"
+generator: "helm"
+path: "./club-finder-app"
