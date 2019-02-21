@@ -15,7 +15,7 @@ service:
  protocol: TCP
 
 image:
- repository: platformtoolsregdev.azurecr.io/dev/sams-club-finder/sams-club-finder
+ repository: samsdevacr.azurecr.io/qa/clubfinder/sams-club-finder
  tag: latest
  pullPolicy: IfNotPresent
 
